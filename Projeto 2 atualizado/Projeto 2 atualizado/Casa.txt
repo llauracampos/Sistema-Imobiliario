@@ -1,0 +1,24 @@
+casa a
+2
+5
+200
+150
+1
+500000
+rua x
+mangabeira
+joao pessoa
+22
+58012040
+casa b
+3
+8
+400
+300
+2
+6000
+rua abc
+jaguaribe
+joao pessoa
+32
+58015300
